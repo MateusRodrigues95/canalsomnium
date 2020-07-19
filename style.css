@@ -1,0 +1,32 @@
+
+
+html{
+    background-color: #222831;
+}
+
+
+body { color: #eeeeee;}
+
+
+
+body h1 { color: #32e0c4 ;}
+
+
+button {   
+   
+    color: black; 
+    background-color: gray;
+   
+    }
+
+ul{
+    list-style: none;
+}
+
+a{ 
+    text-decoration: none ;
+    color: #32e0c4;
+}
+    
+
+body section ul 
